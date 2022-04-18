@@ -1,0 +1,24 @@
+[인스타 크롤링]
+https://www.youtube.com/watch?v=Rx6nhl--jOU
+https://liana-choi.tistory.com/3
+[셀레니움]
+https://greeksharifa.github.io/references/2020/10/30/python-selenium-usage/
+https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/
+
+[음식점 추천 알고리즘]
+https://data101.oopy.io/recommendation-engine-cosine-similarity
+#id
+.class
+:nth-child(n)
+
+
+
+page = 0
+while True :
+pagr += 1
+req.get(~~~_
+)
+if
+soup.select_one()
+== 랭킹정보가 없습니다
+break
