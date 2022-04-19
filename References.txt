@@ -7,6 +7,16 @@ https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/
 
 [음식점 추천 알고리즘]
 https://data101.oopy.io/recommendation-engine-cosine-similarity
+
+[부산광역시 상권 정보]
+https://bigdata.busan.go.kr/data/bigDataDetailView.do?menuCode=M00000000007
+
+
+value = request.form[‘Ins']
+a = "%s" %value
+model.predict([a])
+
+
 #id
 .class
 :nth-child(n)
